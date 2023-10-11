@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\alex\OneDrive\Рабочий стол\Laba_1_Alg\laba_1\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\alex\OneDrive\Рабочий стол\Laba_1_Alg\laba_1\test\test_tbitfield.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\alex\OneDrive\Рабочий стол\Laba_1_Alg\laba_1\test\test_tset.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\alex\OneDrive\Рабочий стол\Laba_1_Alg\laba_1\test\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{244770B2-CB24-3AFF-8F21-F9CB5A3C1736}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
